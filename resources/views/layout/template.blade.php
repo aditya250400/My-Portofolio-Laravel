@@ -8,9 +8,9 @@
     <title>My Resume | @yield('title')</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{asset('/css/aos.css?ver=1.1.0')}}" rel="stylesheet">
-    <link href="{{asset('/css/bootstrap.min.css?ver=1.1.0')}}" rel="stylesheet">
-    <link href="{{asset('/css/main.css?ver=1.1.0')}}" rel="stylesheet">
+    <link href="{{secure_asset('/css/aos.css?ver=1.1.0')}}" rel="stylesheet">
+    <link href="{{secure_asset('/css/bootstrap.min.css?ver=1.1.0')}}" rel="stylesheet">
+    <link href="{{secure_asset('/css/main.css?ver=1.1.0')}}" rel="stylesheet">
     <noscript>
       <style type="text/css">
         [data-aos] {
@@ -34,11 +34,11 @@ reserved.</p>
       
     </div>
   </div>
-    <script src="{{asset('/js/core/jquery.3.2.1.min.js?ver=1.1.0')}}"></script>
-    <script src="{{asset('/js/core/popper.min.js?ver=1.1.0')}}"></script>
-    <script src="{{asset('/js/core/bootstrap.min.js?ver=1.1.0')}}"></script>
-    <script src="{{asset('/js/now-ui-kit.js?ver=1.1.0')}}"></script>
-    <script src="{{asset('/js/aos.js?ver=1.1.0')}}"></script>
-    <script src="{{asset('/scripts/main.js?ver=1.1.0')}}"></script>
+    <script src="{{secure_asset('/js/core/jquery.3.2.1.min.js?ver=1.1.0')}}"></script>
+    <script src="{{secure_asset('/js/core/popper.min.js?ver=1.1.0')}}"></script>
+    <script src="{{secure_asset('/js/core/bootstrap.min.js?ver=1.1.0')}}"></script>
+    <script src="{{secure_asset('/js/now-ui-kit.js?ver=1.1.0')}}"></script>
+    <script src="{{secure_asset('/js/aos.js?ver=1.1.0')}}"></script>
+    <script src="{{secure_asset('/scripts/main.js?ver=1.1.0')}}"></script>
   </body>
 </html>

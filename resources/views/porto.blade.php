@@ -25,7 +25,7 @@
             <!-- sertifikat1 -->
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://www.hackerrank.com/certificates/e2d4299c5b7b" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('images/JavaScript Basic.png')}}" alt="JavaScript Basic"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/JavaScript Basic.png')}}" alt="JavaScript Basic"/>
                     <figcaption>
                       <div class="h4">JavaScript Basic</div>
                       <p>HackerRank Certificate</p>
@@ -35,7 +35,7 @@
 
                 <!-- sertifikat2 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://skilvul.com/courses/javascript-intermediate/student/Raditya" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('images/Javascript Intermediate.jpg')}}" alt="JavaScript Intermediate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/Javascript Intermediate.jpg')}}" alt="JavaScript Intermediate"/>
                     <figcaption>
                       <div class="h4">JavaScript Intermediate</div>
                       <p>Skilvul Certificate</p>
@@ -45,7 +45,7 @@
 
               <!-- sertifikat3 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://progate.com/course_certificate/55f7cdedr32cbp" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('images/Javascript.png')}}" alt="Javascript Certificate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/Javascript.png')}}" alt="Javascript Certificate"/>
                     <figcaption>
                       <div class="h4">Javascript Certificate</div>
                       <p>Javascript Course at Progate</p>
@@ -55,7 +55,7 @@
 
               <!-- sertifikat4 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://progate.com/course_certificate/fe5983b2r2pbw8" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('images/python.png')}}" alt="Python Certificate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/python.png')}}" alt="Python Certificate"/>
                     <figcaption>
                       <div class="h4">Python Certificate</div>
                       <p>Python Course at Progate</p>
@@ -65,7 +65,7 @@
 
               <!-- sertifikat5 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#">
-                  <figure class="cc-effect"><img src="{{asset('images/DQLAB.jpg')}}" alt="Data Science With Python"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/DQLAB.jpg')}}" alt="Data Science With Python"/>
                     <figcaption>
                       <div class="h4">Data Science With Python</div>
                       <p>DQLAB Academy</p>
@@ -78,7 +78,7 @@
             <div class="col-md-6">
               <!-- sertifikat6 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#">
-                  <figure class="cc-effect"><img src="{{asset('images/Javascript Intermediate progate.jpg')}}" alt="JavaScript Intermediate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/Javascript Intermediate progate.jpg')}}" alt="JavaScript Intermediate"/>
                     <figcaption>
                       <div class="h4">JavaScript Intermediate</div>
                       <p>Progate Certificate</p>
@@ -88,7 +88,7 @@
 
               <!-- sertifikat7 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#">
-                  <figure class="cc-effect"><img src="{{asset('images/express js.jpg')}}" alt="Backend Express Fast Track Bootcamp"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/express js.jpg')}}" alt="Backend Express Fast Track Bootcamp"/>
                     <figcaption>
                       <div class="h4">Backend Express Fast Track Bootcamp</div>
                       <p>Progate Certificate</p>
@@ -98,7 +98,7 @@
 
               <!-- sertifikat8 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://progate.com/course_certificate/cbffc813r8vrbt" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('images/node js.jpg')}}" alt="Node.js Certificate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/node js.jpg')}}" alt="Node.js Certificate"/>
                     <figcaption>
                       <div class="h4">Node.js Certificate</div>
                       <p>Progate Certificate</p>
@@ -108,7 +108,7 @@
 
               <!-- sertifikat9 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://progate.com/course_certificate/5a1cd002r8mbab" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('images/php.jpg')}}" alt="PHP Certificate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/php.jpg')}}" alt="PHP Certificate"/>
                     <figcaption>
                       <div class="h4">PHP Certificate</div>
                       <p>Progate Certificate</p>
@@ -117,7 +117,7 @@
               </div>
               <!-- sertifikat10 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#">
-                  <figure class="cc-effect"><img src="{{asset('images/python2.jpg')}}" alt="Pyton For Data Professional"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/python2.jpg')}}" alt="Pyton For Data Professional"/>
                     <figcaption>
                       <div class="h4">Pyton For Data Professional</div>
                       <p>DQLAB Academy</p>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-6">
                 <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#">
-                  <figure class="cc-effect"><img src="{{asset('images/MTCNA.jpg')}}" alt="Pyton For Data Professional"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/MTCNA.jpg')}}" alt="Pyton For Data Professional"/>
                     <figcaption>
                       <div class="h4">MikroTik Certified Network Associate</div>
                       <p>MikroTik</p>

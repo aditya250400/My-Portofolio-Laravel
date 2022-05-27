@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\http\Controllers\appController;
+use App\Http\Controllers\appController;
 
 /*
 |--------------------------------------------------------------------------

@@ -55,7 +55,7 @@
 
               <!-- sertifikat4 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://progate.com/course_certificate/fe5983b2r2pbw8" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('/images/python.png')}}" alt="Python Certificate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/Python.png')}}" alt="Python Certificate"/>
                     <figcaption>
                       <div class="h4">Python Certificate</div>
                       <p>Python Course at Progate</p>
@@ -88,7 +88,7 @@
 
               <!-- sertifikat7 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#">
-                  <figure class="cc-effect"><img src="{{asset('/images/express js.jpg')}}" alt="Backend Express Fast Track Bootcamp"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/ExpressJS.jpg')}}" alt="Backend Express Fast Track Bootcamp"/>
                     <figcaption>
                       <div class="h4">Backend Express Fast Track Bootcamp</div>
                       <p>Progate Certificate</p>
@@ -98,7 +98,7 @@
 
               <!-- sertifikat8 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://progate.com/course_certificate/cbffc813r8vrbt" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('/images/node js.jpg')}}" alt="Node.js Certificate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/NodeJS.jpg')}}" alt="Node.js Certificate"/>
                     <figcaption>
                       <div class="h4">Node.js Certificate</div>
                       <p>Progate Certificate</p>
@@ -108,7 +108,7 @@
 
               <!-- sertifikat9 -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://progate.com/course_certificate/5a1cd002r8mbab" target="_blank">
-                  <figure class="cc-effect"><img src="{{asset('/images/php.jpg')}}" alt="PHP Certificate"/>
+                  <figure class="cc-effect"><img src="{{asset('/images/PHP.jpg')}}" alt="PHP Certificate"/>
                     <figcaption>
                       <div class="h4">PHP Certificate</div>
                       <p>Progate Certificate</p>
